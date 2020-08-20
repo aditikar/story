@@ -1,0 +1,3 @@
+Welcome to chapter 3.
+
+You have successfully shown commitment to your courses, now lets commit it to version control as well!
